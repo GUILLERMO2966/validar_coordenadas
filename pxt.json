@@ -1,5 +1,5 @@
 {
-    "name": "VALIDAR_COORDENADAS",
+    "name": "PROBAR_HELICOPTERO",
     "description": "",
     "dependencies": {
         "core": "*",
